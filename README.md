@@ -1,4 +1,27 @@
+
+![6](https://user-images.githubusercontent.com/66241934/83391833-616b6f80-a3f4-11ea-8e36-5cddab61f7e6.jpg)
+![7](https://user-images.githubusercontent.com/66241934/83391835-62040600-a3f4-11ea-9a2c-3b1ff4967549.jpg)
+![8](https://user-images.githubusercontent.com/66241934/83391838-629c9c80-a3f4-11ea-9ce0-a80de113da51.jpg)
+![9](https://user-images.githubusercontent.com/66241934/83391839-629c9c80-a3f4-11ea-9866-04d338794ff0.jpg)
+![10](https://user-images.githubusercontent.com/66241934/83391841-63353300-a3f4-11ea-8533-98be2c3645af.jpg)
+![1](https://user-images.githubusercontent.com/66241934/83391842-63353300-a3f4-11ea-9203-89f60456013e.jpg)
+![2](https://user-images.githubusercontent.com/66241934/83391843-63cdc980-a3f4-11ea-8bbc-986a6f982d33.jpg)
+![3](https://user-images.githubusercontent.com/66241934/83391844-63cdc980-a3f4-11ea-8ff2-e9cb6f9ad858.jpg)
+![4](https://user-images.githubusercontent.com/66241934/83391845-64666000-a3f4-11ea-883f-c1eec60abad7.jpg)
+![5](https://user-images.githubusercontent.com/66241934/83391846-64666000-a3f4-11ea-9c6f-543fc450e3a1.jpg)
+
+
+
+
+
+
+
+
+
 # TE2_practicas
+
+
+
 TE2-- phpMyAdmin SQL Dump
 -- version 4.9.1
 -- https://www.phpmyadmin.net/
